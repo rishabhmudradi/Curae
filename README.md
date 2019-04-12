@@ -8,6 +8,8 @@ Curae is a mobile application that aids those who have been displaced from their
 
 📁Applications Used: Xcode, Sketch, and Firebase.
 
+![Apple iPhone  Silver](https://user-images.githubusercontent.com/22282701/56009728-ad5dd100-5c95-11e9-88ff-4838e687deaa.png)
+
 📹Video:
 https://www.youtube.com/watch?v=V0F4kSWRcr0&t=1s
 
