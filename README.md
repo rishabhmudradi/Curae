@@ -15,9 +15,7 @@ https://www.youtube.com/watch?v=V0F4kSWRcr0&t=1s
 https://curaeapp.github.io/ 
 
 👨‍💻Developers:
-Rishabh Mudradi
-Aryan Kaul
+Rishabh Mudradi and Aryan Kaul
 
 📬Contact:
-+(669)-214-0379
-rishabh.mudradi@gmail.com
++(669)-214-0379, rishabh.mudradi@gmail.com
