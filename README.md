@@ -4,7 +4,7 @@ Curae is a mobile application that aids those who have been displaced from their
 🏆Awards:
 2018 Congressional App Challenege Winner CA-17.
 
-💡Features: Effortlesss Accessibility,Powerful and Unique Design, and Secure Backend Services.
+💡Features: Effortlesss Accessibility, Powerful and Unique Design, and Secure Backend Services.
 
 📁Applications Used: Xcode, Sketch, and Firebase.
 
