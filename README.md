@@ -19,4 +19,3 @@ Rishabh Mudradi and Aryan Kaul
 
 📬Contact:
 +(669)-214-0379, rishabh.mudradi@gmail.com
-![Uploading Apple iPhone  Silver.png…]()
